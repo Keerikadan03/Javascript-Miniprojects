@@ -1,8 +1,6 @@
 <h1>Welcome to My Mini Project Repository!</h1>
 
-This repository contains multiple mini projects, each showcasing my skills in HTML, CSS, and JavaScript. These projects range from simple web pages to 
-interactive applications. Each project is designed to demonstrate my abilities in web development and to provide a portfolio of my work for potential 
-employers or collaborators to review.
+<p>This repository contains multiple mini projects, each showcasing my skills in HTML, CSS, and JavaScript. These projects range from simple web pages to interactive applications. Each project is designed to demonstrate my abilities in web development and to provide a portfolio of my work for potential employers or collaborators to review.</p>
 
 <h2>How to Use this Repository</h2>
 
