@@ -10,7 +10,6 @@ provided in the Readme.md.
 <h3>Project List</h3>
 
     Project 1: Expanding Cards
-              This projects uses HTML, CSS and Javascript to make a page where the cards hidden can be brought into view or rather expanded in size by
-              clicking on it.
+              <p>This projects uses HTML, CSS and Javascript to make a page where the cards hidden can be brought into view or rather expanded in size by clicking on it.</p>
               
               link: https://sprightly-gumdrop-3b8eaf.netlify.app/
